@@ -1,2 +1,2 @@
 # Computational-methods
-Numerical results and experiments presented in some papers.
+Some papers (co-)authored by myself.
